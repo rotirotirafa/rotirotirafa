@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, i'm Rafael Rotiroti. 
+## 25yo and Developer 
+
+
 
 <!--
 **rotirotirafa/rotirotirafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
