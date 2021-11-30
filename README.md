@@ -1,5 +1,6 @@
 ### Hi there, i'm Rafael Rotiroti. 
-## 25yo and Developer 
+## 25yo
+# Software Engineer at biggest private bank in brazil. Google it.
 
 
 
