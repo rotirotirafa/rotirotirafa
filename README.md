@@ -2,8 +2,6 @@
 ## 26yo
 #### I'm Software Engineer at biggest private bank in brazil. If curious, Google it.
 
-
-
 <!--
 **rotirotirafa/rotirotirafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
