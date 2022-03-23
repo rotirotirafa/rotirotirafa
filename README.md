@@ -1,5 +1,4 @@
 ### Hi there, i'm Rafael Rotiroti. 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/call-me-hand_light-skin-tone_1f919-1f3fb_1f3fb.png">
 ## 26yo
 #### I'm Software Engineer at biggest private bank in brazil. If curious, Google it.
 <div>
