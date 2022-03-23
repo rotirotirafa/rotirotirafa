@@ -1,7 +1,10 @@
 ### Hi there, i'm Rafael Rotiroti. 
 ## 26yo
 #### I'm Software Engineer at biggest private bank in brazil. If curious, Google it.
-
+<div>
+  <a href="https://www.linkedin.com/in/rotirotirafa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rotirotirafa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 <!--
 **rotirotirafa/rotirotirafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
