@@ -1,6 +1,6 @@
 ### Hi there, i'm Rafael Rotiroti.
 <p>I started my carreer at 2018 as full-stack engineer, since then i've been working with thoose technologies below.</p>
-<p>Today i work mainly using Python, creating and maintaining microservices using the most advanced techniques from software engineering</p>
+<p>Today i work mainly using Python and Java, creating and maintaining microservices using the most advanced techniques from software engineering</p>
 <div>
   <h2> Here is some links that you can find me or see some content from myself </h2>
   <a href="https://www.linkedin.com/in/rotirotirafa/" target="_blank">
